@@ -1,5 +1,3 @@
-Docs/_static/chatbot.js
-
 document.addEventListener("DOMContentLoaded", function () {
     var ze = document.createElement('script');
     ze.id = 'ze-snippet';
